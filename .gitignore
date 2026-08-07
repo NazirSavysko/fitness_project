@@ -1,0 +1,22 @@
+# IntelliJ IDEA
+.idea/
+*.iml
+
+# Java bytecode and build output
+*.class
+out/
+build/
+target/
+
+# Logs
+*.log
+
+# Temporary editor files
+*.swp
+*.swo
+*~
+
+# Operating system files
+.DS_Store
+Thumbs.db
+Desktop.ini
